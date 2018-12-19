@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{E717728F-1A32-49A6-9008-C250FB92DBBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterImage", "CharacterImage\CharacterImage.csproj", "{3432FA42-8610-46E4-BBE9-850CE194A6FC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E717728F-1A32-49A6-9008-C250FB92DBBA} = {E717728F-1A32-49A6-9008-C250FB92DBBA}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
