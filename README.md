@@ -2,6 +2,14 @@
 生成酷炫的字符图片哈~</br>
 This app is about creating character images.
 
+### Tips
+* 调整图片`亮度`可以有效地区分前景和背景。 </br> 
+  Adjusting `亮度(brightness)` helps you dividing the foreground and the background.
+* `缩放`图片或者修改字体`大小`均可以调整字符的数量和密度。 </br>
+  `缩放(scaling)` the image changes the amount of characters, while font `大小(size)` also influences the density.
+* 支持你的电脑上安装的所有`字体`。但推荐使用等宽字体。 </br>
+  All `字体(fonts)` on your computer are supported. But only monospace fonts are recommended.
+
 ### Example
 <img src="https://github.com/chanket/CharacterImage/blob/github/Pikachou.jpg?raw=true" />
 
